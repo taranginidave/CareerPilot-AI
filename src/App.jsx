@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
 import Dashboard from "./pages/Dashboard";
-import Profile from "./pages/Profile";
+import Profile from "./pages/Profile.jsx";
 
 import ResumeAnalyzer from "./pages/ResumeAnalyzer";
 import JobMatcher from "./pages/JobMatcher";
