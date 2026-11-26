@@ -13,7 +13,7 @@ import {
 } from "lucide-react";
 
 import { useAuth } from "../auth/AuthContext";
-import "./Profile.css";
+import "./profile.css";
 
 export default function Profile() {
   const { user, updateUser, logout } = useAuth();
