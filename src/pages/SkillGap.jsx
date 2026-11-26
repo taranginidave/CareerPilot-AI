@@ -1,4 +1,4 @@
-import "./SkillGap.css";
+import "./skillGap.css";
 import { useMemo, useState } from "react";
 import {
   Target,
@@ -11,7 +11,7 @@ import {
   TrendingUp,
 } from "lucide-react";
 
-import "./SkillGap.css";
+import "./skillGap.css";
 
 const roleData = {
   "Software Developer": {

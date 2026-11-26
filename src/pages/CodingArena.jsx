@@ -11,7 +11,7 @@ import {
   BookOpen,
 } from "lucide-react";
 
-import "./CodingArena.css";
+import "./codingarena.css";
 
 const questions = {
   DSA: [
